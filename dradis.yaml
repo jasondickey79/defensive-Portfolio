@@ -1,0 +1,15 @@
+
+# dradis.yaml - Configuration for Dradis Community Edition CLI
+name: "01-Lab - Lynis Hardening Assessment"
+description: >
+  This lab assesses the local system’s security posture using the open-source Lynis auditing tool. 
+  The findings are imported and stored in Dradis for documentation and reporting purposes.
+author: "Jason Dickey"
+created_at: 2025-11-01
+tags:
+  - blue team
+  - audit
+  - hardening
+  - Lynis
+  - Linux
+project_type: "defensive"
